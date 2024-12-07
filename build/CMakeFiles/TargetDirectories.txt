@@ -1,0 +1,3 @@
+/home/skyqiao/下载/CLASS_4/build/CMakeFiles/main.dir
+/home/skyqiao/下载/CLASS_4/build/CMakeFiles/edit_cache.dir
+/home/skyqiao/下载/CLASS_4/build/CMakeFiles/rebuild_cache.dir
